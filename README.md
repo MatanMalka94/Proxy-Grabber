@@ -24,7 +24,7 @@
     -c= cooldown default is 5 minutes
 	
 	running example:
-	python3 checker.py -t=75 -l=n -u=y -s=n -c=0
+	python3 grabber.py -t=75 -l=n -u=y -s=n -c=0
 
 
 ### Grabbing Sources
